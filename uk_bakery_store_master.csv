@@ -1,0 +1,157 @@
+store_id,region,cost_index,footfall_index,business_type
+S0001,London,1.25,1.2,biscoff_focused
+S0002,London,1.25,1.2,generic_bakery
+S0003,London,1.25,1.2,generic_bakery
+S0004,London,1.25,1.2,generic_bakery
+S0005,London,1.25,1.2,biscoff_focused
+S0006,London,1.25,1.2,biscoff_focused
+S0007,London,1.25,1.2,biscoff_focused
+S0008,London,1.25,1.2,generic_bakery
+S0009,London,1.25,1.2,generic_bakery
+S0010,London,1.25,1.2,generic_bakery
+S0011,London,1.25,1.2,biscoff_focused
+S0012,London,1.25,1.2,generic_bakery
+S0013,London,1.25,1.2,generic_bakery
+S0014,London,1.25,1.2,biscoff_focused
+S0015,London,1.25,1.2,biscoff_focused
+S0016,London,1.25,1.2,biscoff_focused
+S0017,London,1.25,1.2,biscoff_focused
+S0018,London,1.25,1.2,generic_bakery
+S0019,London,1.25,1.2,biscoff_focused
+S0020,London,1.25,1.2,biscoff_focused
+S0021,London,1.25,1.2,generic_bakery
+S0022,London,1.25,1.2,biscoff_focused
+S0023,South East,1.1,1.05,biscoff_focused
+S0024,South East,1.1,1.05,biscoff_focused
+S0025,South East,1.1,1.05,biscoff_focused
+S0026,South East,1.1,1.05,generic_bakery
+S0027,South East,1.1,1.05,biscoff_focused
+S0028,South East,1.1,1.05,generic_bakery
+S0029,South East,1.1,1.05,generic_bakery
+S0030,South East,1.1,1.05,biscoff_focused
+S0031,South East,1.1,1.05,generic_bakery
+S0032,South East,1.1,1.05,biscoff_focused
+S0033,South East,1.1,1.05,biscoff_focused
+S0034,South East,1.1,1.05,generic_bakery
+S0035,South East,1.1,1.05,generic_bakery
+S0036,South East,1.1,1.05,generic_bakery
+S0037,South East,1.1,1.05,biscoff_focused
+S0038,South East,1.1,1.05,biscoff_focused
+S0039,South East,1.1,1.05,generic_bakery
+S0040,South East,1.1,1.05,biscoff_focused
+S0041,South West,1.02,0.98,biscoff_focused
+S0042,South West,1.02,0.98,biscoff_focused
+S0043,South West,1.02,0.98,biscoff_focused
+S0044,South West,1.02,0.98,generic_bakery
+S0045,South West,1.02,0.98,biscoff_focused
+S0046,South West,1.02,0.98,generic_bakery
+S0047,South West,1.02,0.98,biscoff_focused
+S0048,South West,1.02,0.98,generic_bakery
+S0049,South West,1.02,0.98,generic_bakery
+S0050,South West,1.02,0.98,biscoff_focused
+S0051,South West,1.02,0.98,generic_bakery
+S0052,South West,1.02,0.98,generic_bakery
+S0053,East of England,1.05,1.0,generic_bakery
+S0054,East of England,1.05,1.0,generic_bakery
+S0055,East of England,1.05,1.0,generic_bakery
+S0056,East of England,1.05,1.0,generic_bakery
+S0057,East of England,1.05,1.0,biscoff_focused
+S0058,East of England,1.05,1.0,biscoff_focused
+S0059,East of England,1.05,1.0,biscoff_focused
+S0060,East of England,1.05,1.0,biscoff_focused
+S0061,East of England,1.05,1.0,biscoff_focused
+S0062,East of England,1.05,1.0,biscoff_focused
+S0063,East of England,1.05,1.0,generic_bakery
+S0064,East of England,1.05,1.0,biscoff_focused
+S0065,West Midlands,0.97,1.0,biscoff_focused
+S0066,West Midlands,0.97,1.0,generic_bakery
+S0067,West Midlands,0.97,1.0,biscoff_focused
+S0068,West Midlands,0.97,1.0,generic_bakery
+S0069,West Midlands,0.97,1.0,biscoff_focused
+S0070,West Midlands,0.97,1.0,generic_bakery
+S0071,West Midlands,0.97,1.0,generic_bakery
+S0072,West Midlands,0.97,1.0,biscoff_focused
+S0073,West Midlands,0.97,1.0,biscoff_focused
+S0074,West Midlands,0.97,1.0,generic_bakery
+S0075,West Midlands,0.97,1.0,generic_bakery
+S0076,West Midlands,0.97,1.0,generic_bakery
+S0077,West Midlands,0.97,1.0,generic_bakery
+S0078,West Midlands,0.97,1.0,biscoff_focused
+S0079,East Midlands,0.95,0.95,biscoff_focused
+S0080,East Midlands,0.95,0.95,biscoff_focused
+S0081,East Midlands,0.95,0.95,generic_bakery
+S0082,East Midlands,0.95,0.95,generic_bakery
+S0083,East Midlands,0.95,0.95,biscoff_focused
+S0084,East Midlands,0.95,0.95,biscoff_focused
+S0085,East Midlands,0.95,0.95,biscoff_focused
+S0086,East Midlands,0.95,0.95,biscoff_focused
+S0087,East Midlands,0.95,0.95,generic_bakery
+S0088,East Midlands,0.95,0.95,generic_bakery
+S0089,North West,0.98,1.03,generic_bakery
+S0090,North West,0.98,1.03,biscoff_focused
+S0091,North West,0.98,1.03,biscoff_focused
+S0092,North West,0.98,1.03,generic_bakery
+S0093,North West,0.98,1.03,generic_bakery
+S0094,North West,0.98,1.03,generic_bakery
+S0095,North West,0.98,1.03,generic_bakery
+S0096,North West,0.98,1.03,biscoff_focused
+S0097,North West,0.98,1.03,generic_bakery
+S0098,North West,0.98,1.03,biscoff_focused
+S0099,North West,0.98,1.03,biscoff_focused
+S0100,North West,0.98,1.03,biscoff_focused
+S0101,North West,0.98,1.03,biscoff_focused
+S0102,North West,0.98,1.03,generic_bakery
+S0103,North West,0.98,1.03,biscoff_focused
+S0104,North West,0.98,1.03,generic_bakery
+S0105,North West,0.98,1.03,generic_bakery
+S0106,North West,0.98,1.03,biscoff_focused
+S0107,North East,0.92,0.92,biscoff_focused
+S0108,North East,0.92,0.92,generic_bakery
+S0109,North East,0.92,0.92,biscoff_focused
+S0110,North East,0.92,0.92,biscoff_focused
+S0111,North East,0.92,0.92,biscoff_focused
+S0112,North East,0.92,0.92,biscoff_focused
+S0113,North East,0.92,0.92,generic_bakery
+S0114,North East,0.92,0.92,generic_bakery
+S0115,Yorkshire & Humber,0.95,0.97,generic_bakery
+S0116,Yorkshire & Humber,0.95,0.97,generic_bakery
+S0117,Yorkshire & Humber,0.95,0.97,generic_bakery
+S0118,Yorkshire & Humber,0.95,0.97,biscoff_focused
+S0119,Yorkshire & Humber,0.95,0.97,generic_bakery
+S0120,Yorkshire & Humber,0.95,0.97,generic_bakery
+S0121,Yorkshire & Humber,0.95,0.97,generic_bakery
+S0122,Yorkshire & Humber,0.95,0.97,generic_bakery
+S0123,Yorkshire & Humber,0.95,0.97,biscoff_focused
+S0124,Yorkshire & Humber,0.95,0.97,biscoff_focused
+S0125,Yorkshire & Humber,0.95,0.97,biscoff_focused
+S0126,Yorkshire & Humber,0.95,0.97,biscoff_focused
+S0127,Wales,0.93,0.94,generic_bakery
+S0128,Wales,0.93,0.94,generic_bakery
+S0129,Wales,0.93,0.94,biscoff_focused
+S0130,Wales,0.93,0.94,generic_bakery
+S0131,Wales,0.93,0.94,biscoff_focused
+S0132,Wales,0.93,0.94,biscoff_focused
+S0133,Wales,0.93,0.94,biscoff_focused
+S0134,Wales,0.93,0.94,biscoff_focused
+S0135,Wales,0.93,0.94,generic_bakery
+S0136,Wales,0.93,0.94,biscoff_focused
+S0137,Scotland,0.98,1.0,generic_bakery
+S0138,Scotland,0.98,1.0,generic_bakery
+S0139,Scotland,0.98,1.0,biscoff_focused
+S0140,Scotland,0.98,1.0,generic_bakery
+S0141,Scotland,0.98,1.0,generic_bakery
+S0142,Scotland,0.98,1.0,biscoff_focused
+S0143,Scotland,0.98,1.0,biscoff_focused
+S0144,Scotland,0.98,1.0,biscoff_focused
+S0145,Scotland,0.98,1.0,biscoff_focused
+S0146,Scotland,0.98,1.0,biscoff_focused
+S0147,Scotland,0.98,1.0,generic_bakery
+S0148,Scotland,0.98,1.0,generic_bakery
+S0149,Scotland,0.98,1.0,biscoff_focused
+S0150,Scotland,0.98,1.0,biscoff_focused
+S0151,Northern Ireland,0.9,0.9,generic_bakery
+S0152,Northern Ireland,0.9,0.9,biscoff_focused
+S0153,Northern Ireland,0.9,0.9,biscoff_focused
+S0154,Northern Ireland,0.9,0.9,biscoff_focused
+S0155,Northern Ireland,0.9,0.9,generic_bakery
+S0156,Northern Ireland,0.9,0.9,biscoff_focused

@@ -1,0 +1,18 @@
+business_type,category,item,units,revenue_gbp,gross_profit_gbp,gp_margin
+biscoff_focused,brownie,Biscoff Brownie,765670,2882799.55,1068462.52,0.371
+biscoff_focused,cake_slice,Biscoff Cheesecake Slice,765785,4172572.24,1368927.04,0.328
+biscoff_focused,confectionery,Biscoff Cookie Box (6),669288,4973330.47,1935578.55,0.389
+biscoff_focused,confectionery,Biscoff Fudge Bag,672215,2996942.5,1123575.08,0.375
+biscoff_focused,cupcake,Biscoff Cupcake,767961,2586995.48,901069.21,0.348
+biscoff_focused,dessert,Biscoff Ice Cream Scoop,671634,2129189.38,1057464.7,0.497
+biscoff_focused,drink,Biscoff Milkshake,510168,2628430.57,1428684.07,0.544
+biscoff_focused,whole_cake,Biscoff Drip Cake (Whole),287981,11982427.72,3786857.06,0.316
+generic_bakery,brownie,Brownie,560390,1776592.45,622012.88,0.35
+generic_bakery,cake_slice,Victoria Sponge Slice,561432,2558621.13,800679.7,0.313
+generic_bakery,confectionery,Sweets Bag,335586,1263353.53,606015.29,0.48
+generic_bakery,cupcake,Classic Cupcake,559805,1608295.99,542386.4,0.337
+generic_bakery,drink,Tea/Coffee,672724,1599493.43,950719.25,0.594
+generic_bakery,pastry,Assorted Pastry,672303,1864961.38,767029.56,0.411
+generic_bakery,savory,Sandwich,671753,2795235.56,1062074.54,0.38
+generic_bakery,savory,Sausage Roll,673192,1733956.83,639883.72,0.369
+generic_bakery,whole_cake,Chocolate Fudge Cake (Whole),195984,7377559.41,2420287.39,0.328
